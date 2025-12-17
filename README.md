@@ -1,4 +1,4 @@
-# 📦 Dynamic Forex-Like Pricing RetailMode – Rust Implementation
+# 📦 Dynamic Forex-Like Pricing Vending Machine – Rust Implementation
 
 This project demonstrates a **smart vending machine simulation** built entirely in **Rust**, featuring:
 
